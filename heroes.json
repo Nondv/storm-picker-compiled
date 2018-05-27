@@ -292,6 +292,23 @@
     }
   },
   {
+    "name": "Fenix",
+    "features": {
+      "ranged": true,
+      "mobility": true,
+      "dd": true,
+      "aa": true,
+      "escape": true,
+      "waveclear": true,
+      "finisher": true,
+      "solo": true,
+      "selfsustain": true
+    },
+    "images": {
+      "bust": "https://blzmedia-a.akamaihd.net/heroes/fenix/bust.jpg"
+    }
+  },
+  {
     "name": "Garrosh",
     "features": {
       "melee": true,
@@ -1113,7 +1130,8 @@
       "burst": true,
       "selfsustain": true,
       "initiation": true,
-      "finisher": true
+      "finisher": true,
+      "solo": true
     },
     "images": {
       "bust": "https://blzmedia-a.akamaihd.net/heroes/varian/bust.jpg"
@@ -1130,6 +1148,7 @@
       "slow": true,
       "initiation": true,
       "solo": true,
+      "summons": true,
       "aa": true
     },
     "images": {
@@ -1140,6 +1159,7 @@
     "name": "Zagara",
     "features": {
       "ranged": true,
+      "aa": true,
       "dd": true,
       "waveclear": true,
       "pushing": true,
@@ -1147,6 +1167,7 @@
       "camping": true,
       "global": true,
       "scout": true,
+      "solo": true,
       "summons": true
     },
     "images": {
